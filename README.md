@@ -1,9 +1,8 @@
 <div align="center">
 
-  <img src="https://lakasir.com/assets/logo/image.png" alt="logo" width="200" height="auto" />
-  <h1>Lakasir Web App</h1>
+  <h1>Nonci Web App</h1>
 
-  <p> Lakasir is a Point of Sale (POS) application built using Laravel for the API, the Filament admin panel for the web application, and Flutter for the mobile application. </p>
+  <p> Nonci is a Point of Sale (POS) application built using Laravel for the API, the Filament admin panel for the web application, and Flutter for the mobile application. </p>
   
 </div>
 
@@ -37,7 +36,7 @@
   &emsp;
   <img src="./readme/Screenshot/product-detail.png" alt="Product Detail" width="400"/>  
 </div>
-<!-- ![Lakasir Screenshot](./readme/Screenshot/product-detail.png) -->
+<!-- ![Nonci Screenshot](./readme/Screenshot/product-detail.png) -->
 
 ## Technologies Used
 * **Backend**: [Laravel](https://laravel.com)
@@ -45,8 +44,8 @@
 * **Frontend** (Mobile): [Flutter](https://flutter.github.io)
 
 ## Installation
-1. Clone the repository: git clone https://github.com/lakasir/lakasir.git
-2. Navigate to the project directory: cd lakasir
+1. Clone the repository: git clone https://github.com/Nonci/Nonci.git
+2. Navigate to the project directory: cd Nonci
 3. Install dependencies:
 4. Laravel:
    * `composer install`
@@ -67,9 +66,9 @@
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to Lakasir, please follow these steps:
+We welcome contributions from the community! If you'd like to contribute to Nonci, please follow these steps:
 
-1. keep on eye on [project board](https://github.com/orgs/lakasir/projects/2/views/1)
+1. keep on eye on [project board](https://github.com/orgs/Nonci/projects/2/views/1)
 2. Fork the repository.
 3. Create a new branch (git checkout -b feature/new-feature). 
 4. Make your changes and commit them (git commit -am 'Add new feature').
@@ -79,10 +78,10 @@ We welcome contributions from the community! If you'd like to contribute to Laka
 When contributing to this project, please keep an eye on our project features board on GitHub to stay updated with ongoing and planned features.
 
 ## License
-This project is licensed under the GPL-3.0 license - see the [LICENSE](https://github.com/lakasir/lakasir?tab=GPL-3.0-1-ov-file) file for details.
+This project is licensed under the GPL-3.0 license - see the [LICENSE](https://github.com/Nonci/Nonci?tab=GPL-3.0-1-ov-file) file for details.
 
 ## Contact
-For any inquiries or support, please contact lakasirapp@gmail.com or you can open discussion in discussion features
+For any inquiries or support, please contact Nonciapp@gmail.com or you can open discussion in discussion features
 
 ## Donate for live longer
 
@@ -92,10 +91,10 @@ For any inquiries or support, please contact lakasirapp@gmail.com or you can ope
 
 ## Star History
 
-<a href="https://star-history.com/#lakasir/lakasir&Date">
+<a href="https://star-history.com/#Nonci/Nonci&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lakasir/lakasir&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lakasir/lakasir&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lakasir/lakasir&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Nonci/Nonci&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Nonci/Nonci&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Nonci/Nonci&type=Date" />
  </picture>
 </a>
